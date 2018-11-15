@@ -9,7 +9,7 @@
 |Ghi chú| [Evernote](https://evernote.com/)|Nhiều cách trình bày note hơn Google keep 
 |Ghi chú bằng bút| [One note](https://www.onenote.com/)| Đa nền tảng <br> Cách lưu trữ theo group khoa học <br>Công cụ vẽ vời dễ sử dụng 
 |Nghe nhạc|[Spotify](https://www.spotify.com/)| Không phải nghĩ về việc tìm list nhạc 
-||[]()|
+|Web hosting (Testing)|[Firebase hosting](https://firebase.google.com/docs/hosting/)|Miễn phí cho nhu cầu test<br> Hỗ trợ https
 ||[]()|
 ||[]()|
 
